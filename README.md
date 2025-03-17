@@ -13,7 +13,7 @@ PHP均未解密<br>
 另外感谢康作者本人信任我选择我的脚本开源(手动滑稽)<br>
 <br>
 一键脚本：<br>
-`yum -y install wget;wget -N --no-check-certificate "https://raw.githubusercontent.com/lingyia/kangml4.0/master/kangml.sh";chmod 777 kangml.sh;./kangml.sh`
+`yum -y install wget;wget -N --no-check-certificate "https://raw.githubusercontent.com/xccxcc240/kangml4.0/master/kangml.sh";chmod 777 kangml.sh;./kangml.sh`
 <br>
 交流群：302638446<br>
 宁缺毋滥，伞兵勿扰<br>
